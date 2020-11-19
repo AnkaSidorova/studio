@@ -1,0 +1,147 @@
+# Translation of Themes - Blossom Chic in Russian
+# This file is distributed under the same license as the Themes - Blossom Chic package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-12-10 12:59:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Blossom Chic\n"
+
+#. Theme Name of the theme
+msgid "Blossom Chic"
+msgstr "Blossom Chic"
+
+#: functions.php:960
+msgid " Blossom Chic | Developed By "
+msgstr " Blossom Chic | Разработана "
+
+#: functions.php:963
+msgid "https://wordpress.org/"
+msgstr "https://ru.wordpress.org/"
+
+#: functions.php:963
+msgid " Powered by %s"
+msgstr "Сайт работает на %s"
+
+#: functions.php:458
+msgid "Navigation"
+msgstr "Навигация"
+
+#: functions.php:361
+msgid "Choose the layout of the slider for your site."
+msgstr "Выберите макет слайдера для вашего сайта."
+
+#: functions.php:339 functions.php:360
+msgid "Slider Layout"
+msgstr "Макет слайдера"
+
+#: functions.php:326
+msgid "This is the layout for blog index page."
+msgstr "Это макет главной страницы блога."
+
+#: functions.php:304 functions.php:325
+msgid "Home Page Layout"
+msgstr "Макет домашней страницы"
+
+#: functions.php:291
+msgid "This is the layout for header."
+msgstr "Это макет шапки."
+
+#: functions.php:269 functions.php:290
+msgid "Header Layout"
+msgstr "Макет верхнего колонтитула"
+
+#: functions.php:228
+msgid "Primary color of the theme."
+msgstr "Основной цвет темы."
+
+#: functions.php:227
+msgid "Primary Color"
+msgstr "Основной цвет"
+
+#: functions.php:195
+msgid "Change the font size of your site."
+msgstr "Измените размер шрифта вашего сайта."
+
+#: functions.php:194
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: functions.php:172
+msgid "Secondary font of the site."
+msgstr "Второстепенный шрифт на сайте."
+
+#: functions.php:171
+msgid "Secondary Font"
+msgstr "Второй шрифт"
+
+#: functions.php:150
+msgid "Primary font of the site."
+msgstr "Основной шрифт на сайте."
+
+#: functions.php:149
+msgid "Primary Font"
+msgstr "Основной шрифт"
+
+#: functions.php:129
+msgid "Typography"
+msgstr "Типография"
+
+#: functions.php:121
+msgid "Customize Typography, Header Image & Background Image"
+msgstr "Настроить типографику, заголовок и фоновое изображение"
+
+#: functions.php:120
+msgid "Appearance Settings"
+msgstr "Настройки отображения"
+
+#: functions.php:102
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr "Ссылка на документацию: %1$sНажмите тут.%2$s"
+
+#: functions.php:100
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "Ссылка на демо: %1$sНажмите тут.%2$s"
+
+#: functions.php:87
+msgid "Demo & Documentation"
+msgstr "Демо и документация"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:567
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "вкл"
+
+#: functions.php:260
+msgid "Layout Settings"
+msgstr "Настройки макета"
+
+#: functions.php:569
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr "вкл"
+
+#: functions.php:568
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "вкл"
+
+#. Author URI of the theme
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"
+
+#. Author of the theme
+#: functions.php:961
+msgid "Blossom Themes"
+msgstr "Blossom Themes"
+
+#. Theme URI of the theme
+msgid "https://blossomthemes.com/themes/blossom-chic-free-wordpress-theme"
+msgstr "https://blossomthemes.com/themes/blossom-chic-free-wordpress-theme"

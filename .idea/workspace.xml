@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07058815-989c-49c5-878e-15cc720524a6" name="Default Changelist" comment="" />
+    <list default="true" id="07058815-989c-49c5-878e-15cc720524a6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +11,9 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -43,16 +48,45 @@
       <updated>1605459453801</updated>
       <workItem from="1605459455615" duration="11811000" />
       <workItem from="1605790251247" duration="999000" />
+      <workItem from="1605791788715" duration="1919000" />
     </task>
+    <task id="LOCAL-00001" summary="fix readme">
+      <created>1605791826765</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605791826765</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix readme">
+      <created>1605791878099</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605791878099</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix readme" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="450" y="151" width="801" height="644" key="find.popup" timestamp="1605777494838">
-      <screen x="65" y="23" width="1375" height="877" />
+    <state x="327" y="37" key="CommitChangelistDialog2" timestamp="1605791877907">
+      <screen x="55" y="23" width="1385" height="877" />
     </state>
+    <state x="327" y="37" key="CommitChangelistDialog2/55.23.1385.877@55.23.1385.877" timestamp="1605791877907" />
+    <state x="350" y="201" key="Vcs.Push.Dialog.v2" timestamp="1605791884009">
+      <screen x="55" y="23" width="1385" height="877" />
+    </state>
+    <state x="350" y="201" key="Vcs.Push.Dialog.v2/55.23.1385.877@55.23.1385.877" timestamp="1605791884009" />
+    <state x="441" y="151" width="808" height="644" key="find.popup" timestamp="1605793668172">
+      <screen x="53" y="23" width="1387" height="877" />
+    </state>
+    <state x="441" y="151" width="808" height="644" key="find.popup/53.23.1387.877@53.23.1387.877" timestamp="1605793668172" />
     <state x="449" y="151" width="802" height="644" key="find.popup/64.23.1376.877@64.23.1376.877" timestamp="1605775613497" />
     <state x="450" y="151" width="801" height="644" key="find.popup/65.23.1375.877@65.23.1375.877" timestamp="1605777494838" />
     <state x="417" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1605767230048">

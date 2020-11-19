@@ -10,7 +10,7 @@
 <h2>Доступ в админ панель</h2>
 <ol>
 	<li>В url добавить /wp-admin либо перейти по ссылке <a href="https://studio1-0.000webhostapp.com/wp-admin/">админка</a></li>
-	<li>Далее ввести логин: admin и пароль:9YqV9L3BuJeUxachV4</li>
+	<li>Далее ввести логин: anya и пароль: gr^GJoUu*6cjcRfOe$ </li>
 </ol>
 
 <h2>Обновление информации на сайте</h2>

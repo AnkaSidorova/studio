@@ -2,6 +2,7 @@
 	WordPress
 </h1>
 <p>Описание структуры сайта</p>
+https://docs.google.com/document/d/1yTVdvwbr2S739ct4l7n4D8ZjU_rLaUIgO-Y89KXqMB8/edit
 
 <h2>Сначала главное</h2>
 <p>Был разработан ленгдин содержащий необходимые блоки, сверстанный с помощью сетки бутстрап. 
